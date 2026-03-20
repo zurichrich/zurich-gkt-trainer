@@ -194,6 +194,9 @@ Die Schweiz ist ein Binnenland ohne Zugang zum Meer. Es hat drei grosse geografi
 
 *Switzerland is a landlocked country with no access to the sea. It has three major geographic natural regions.*
 
+
+![Karte der drei Grosslandschaften der Schweiz: Jura, Mittelland, Alpen / Map of the three major landscapes of Switzerland: Jura, Central Plateau, Alps](../images/einbuergerungskurs-2026/page-05.png)
+
 **Der Jura** liegt im Westen und Nordwesten der Schweiz und nimmt etwa 10% der Gesamtfläche ein. Das Gebirge hat eine mittlere Höhe von 700 Meter und liegt teilweise in Deutschland und Frankreich.
 - Etwa 50% der Fläche ist Wald.
 - Etwa 43% der Fläche ist Landwirtschaft.
@@ -316,6 +319,9 @@ Schweizerdeutsch wird (in der Deutschschweiz) von allen sozialen Schichten und i
 
 *Swiss German is spoken (in German-speaking Switzerland) by all social classes and in all situations. Depending on the **canton**, a different dialect is spoken, but everyone can understand each other.*
 
+
+![Die vier Sprachgebiete der Schweiz / The four language regions of Switzerland](../images/einbuergerungskurs-2026/page-07.png)
+
 ### Religionen
 
 *Religions*
@@ -378,6 +384,9 @@ Zwei nationale Sportarten sind das Schwingen und das Hornussen. Letzteres ist ä
 
 *Two national sports are Schwingen (Swiss wrestling) and Hornussen. The latter is similar to baseball. Schwingen is a form of wrestling that began at farmers' markets.*
 
+
+![Schwingen und Brauchtum – Schellen-Ursli / Swiss wrestling and customs – Schellen-Ursli](../images/einbuergerungskurs-2026/page-09.png)
+
 <!-- Page 9 -->
 
 ### Essen
@@ -400,6 +409,9 @@ Rivella gilt als Nationalgetränk, das aus Milchserum gewonnen wird.
 
 *Rivella is considered the national beverage, made from milk whey.*
 
+![Rivella – Schweizer Nationalgetränk / Rivella – Swiss national beverage](../images/einbuergerungskurs-2026/page-10a.png)
+
+
 Als Nationalgericht und als Walliser Spezialität bekannt ist das Raclette.
 
 *Raclette is known as the national dish and as a Valais specialty.*
@@ -408,9 +420,18 @@ Fondue hingegen ist ein Gericht aus der Westschweiz und wurde erst Mitte 20. Jah
 
 *Fondue, on the other hand, is a dish from Western Switzerland and only became known throughout Switzerland in the mid-20th century. In German-speaking Switzerland, Rösti is very popular, but every **canton** has its own variation.*
 
+![Knorr Aromat – Schweizer Würzmittel / Knorr Aromat – Swiss seasoning](../images/einbuergerungskurs-2026/page-10b.png)
+
+
 Ein weiteres Nationalprodukt ist das Birchermüesli. Es wurde von einem Zürcher Arzt erfunden und ist heute ein international bekanntes Frühstück.
 
 *Another national product is Birchermüesli. It was invented by a Zurich doctor and is today an internationally known breakfast.*
+
+![Zweifel Paprika Chips – Schweizer Snack / Zweifel Paprika Chips – Swiss snack](../images/einbuergerungskurs-2026/page-10c.png)
+
+
+![Le Gruyère – Schweizer Käse / Le Gruyère – Swiss cheese](../images/einbuergerungskurs-2026/page-10d.png)
+
 
 <!-- Page 10 -->
 
@@ -425,6 +446,9 @@ Die Schweiz hat viele Museen, die Mehrheit davon sind Kunstmuseen, aber es hat a
 ### Bauweise / Architektur
 
 *Construction / Architecture*
+
+![Schweizer Bauweisen: Emmentaler Bauernhaus, Tessiner Rustico, Engadinerhaus / Swiss building styles: Emmental farmhouse, Ticino Rustico, Engadine house](../images/einbuergerungskurs-2026/page-11.png)
+
 
 Jeder **Kanton** hat eine andere historische Bauweise. Ländliche Gebiete des Mittellands weisen mehr Holzhäuser auf, wie z.B. die Emmentaler Bauernhöfe, während die Alpengebiete und der Jura/der Süden vermehrt Steinhäuser haben. Typisches Beispiel sind die Rustico im Tessin oder die engadiner Häuser.
 
@@ -472,6 +496,9 @@ Es gab viele Schweizer Künstler und Schriftsteller, die internationales Echo er
 
 *Eveline Hasler: born in Glarus in 1933, famous for historical biographies.*
 
+
+![Schweizer Künstler und Architekten – Paul Klee, Alberto Giacometti, Le Corbusier, Herzog & de Meuron / Swiss artists and architects – Paul Klee, Alberto Giacometti, Le Corbusier, Herzog & de Meuron](../images/einbuergerungskurs-2026/page-12.png)
+
 <!-- Page 12 -->
 
 ## Geschichte
@@ -485,6 +512,9 @@ Die Schweiz bildet weder ethnisch noch religiös eine Einheit. Das Schweizer Nat
 So nennt man die Schweiz auch gerne eine Willensnation.
 
 *That is why Switzerland is often called a "nation of will" (Willensnation).*
+
+![Die drei Eidgenossen – Rütlischwur / The three confederates – Rütli oath](../images/einbuergerungskurs-2026/page-13.png)
+
 
 **1291** – Uri, Schwyz und Nidwalden schliessen Anfang August einen **Bund** zur Sicherung des Friedens auf ihren Gebieten. Ziel war es, sich vor fremden Übergriffen zu schützen und die Macht und Freiheiten der Führungsschichten zu wahren. Der Pakt wurde im Bundesbrief von 1291 notiert.
 
@@ -584,6 +614,9 @@ Seit 1848 ist die Schweiz ein Bundesstaat. Die **Bundesverfassung** definiert di
 
 *Since 1848, Switzerland has been a federal state. The **Federal Constitution** defines the tasks of the **Confederation**. These include e.g. foreign policy, army organisation, the national road network, monetary policy, customs. Parliament (the **Legislature**) consists of the **National Council** and the **Council of States**. The government (the **Executive**) has 7 **Federal Councillors**. The Federal Supreme Court (the **Judiciary**) ensures national jurisprudence. Financing: direct federal tax / value-added tax, etc.*
 
+
+![1 Bund – Die Schweizerische Eidgenossenschaft / 1 Confederation – The Swiss Confederation](../images/einbuergerungskurs-2026/page-15a.png)
+
 ### Die **Kantone**
 
 *The **Cantons***
@@ -591,6 +624,9 @@ Seit 1848 ist die Schweiz ein Bundesstaat. Die **Bundesverfassung** definiert di
 Jeder **Kanton** hat – wie der **Bund** – eine eigene Regierung, ein eigenes Parlament und eine eigene **Verfassung**. Diese darf der **Bundesverfassung** nicht widersprechen. Die **Kantone** haben eine grosse Autonomie in z.B. Schul- und Spitalwesen, bei der Polizei, der Kultur oder dem Bauwesen. Finanzierung: kantonale **Steuern**.
 
 *Every **canton** has – like the **Confederation** – its own government, its own parliament and its own **constitution**. This may not contradict the **Federal Constitution**. The **cantons** have great autonomy in e.g. schools and hospitals, police, culture or construction. Financing: cantonal **taxes**.*
+
+
+![26 Kantone der Schweiz / 26 cantons of Switzerland](../images/einbuergerungskurs-2026/page-15b.png)
 
 <!-- Page 15 -->
 
@@ -605,6 +641,12 @@ Der Nationale Finanzausgleich soll die wirtschaftlichen Unterschiede zwischen de
 Die **Gemeinde** hat auch eigenständige Kompetenzen, die aber meist von **Kanton** und **Bund** bestimmt werden. Zu den Aufgaben der **Gemeinde** gehören z.B. Feuerwehr, Abfallentsorgung, Volksschule. Grössere **Gemeinden** haben eine **Verfassung** (Gemeindeordnung) und eine gesetzgebende und eine ausführende Behörde. In kleineren **Gemeinden** bildet die Gemeindeversammlung die gesetzgebende Behörde. Das ist eine Zusammenkunft von Stimmbürger/Innen, die über politische Vorlagen entscheidet. Viele **Gemeinden** fusionieren aus Kostengründen. Finanzierung: Gemeinde**steuern**.
 
 *The **municipality** also has its own competences, which are, however, mostly determined by the **canton** and **Confederation**. The tasks of the **municipality** include e.g. fire service, waste disposal, public school. Larger **municipalities** have a **constitution** (municipal regulations) and a legislative and an executive authority. In smaller **municipalities**, the municipal assembly forms the legislative body. This is a gathering of eligible voters that decides on political proposals. Many **municipalities** merge for cost reasons. Financing: municipal **taxes**.*
+
+
+![2131 Gemeinden der Schweiz (2024) / 2,131 municipalities of Switzerland (2024)](../images/einbuergerungskurs-2026/page-16a.png)
+
+
+![Aufgabenteilung zwischen Bund, Kantonen und Gemeinden / Division of tasks between Confederation, cantons and municipalities](../images/einbuergerungskurs-2026/page-16b.png)
 
 <!-- Page 16 -->
 
@@ -644,6 +686,9 @@ Auf nationaler Ebene hat die Schweiz ein indirekt demokratisches System. Die Wä
 
 *At the national level, Switzerland has an indirect democratic system. Voters elect the federal parliament. This then elects the **Federal Council** and the federal judges and enacts laws.*
 
+
+![Demokratie – Abstimmung per Handerheben / Democracy – Voting by show of hands](../images/einbuergerungskurs-2026/page-17.png)
+
 <!-- Page 17 -->
 
 ### **Gewaltenteilung**
@@ -670,6 +715,9 @@ Die drei Gewalten sind unabhängig voneinander und kontrollieren sich gegenseiti
 
 *The three powers are independent of each other and check one another. The **separation of powers** exists at **federal**, **cantonal** and **municipal** level. The names of the three powers differ by **canton** or **municipality**.*
 
+
+![Die Gewaltenteilung in der Schweiz / The separation of powers in Switzerland](../images/einbuergerungskurs-2026/page-18.png)
+
 <!-- Page 18 -->
 
 ### Stimmvolk
@@ -692,6 +740,9 @@ Wenn die beiden Kammern zusammen tagen, z.B. für die Wahl eines **Bundesrates**
 
 *When both chambers meet together, e.g. for the election of a **Federal Councillor**, it is called the United **Federal Assembly**.*
 
+![Nationalrat und Ständerat – Parlamentssaal / National Council and Council of States – Parliament chamber](../images/einbuergerungskurs-2026/page-19.png)
+
+
 **Aufgaben:** neue Gesetze erlassen, **Bundesrat** wählen, Bundesrichter wählen, Budget & Staatsausgaben bestimmen, Verwaltung kontrollieren.
 
 ***Tasks:** enact new laws, elect the **Federal Council**, elect federal judges, determine budget & government expenditure, oversee administration.*
@@ -704,6 +755,9 @@ Wenn die beiden Kammern zusammen tagen, z.B. für die Wahl eines **Bundesrates**
 
 ***Committee (Kommission):** A group of council members. Their task is to investigate a specific topic and report to the council. Committees specialise in certain subject areas and also make proposals. The **National Council** has 12 standing committees, the **Council of States** has 11 standing committees.*
 
+
+![Übersicht Nationalrat und Ständerat / Overview National Council and Council of States](../images/einbuergerungskurs-2026/page-20a.png)
+
 <!-- Page 19 -->
 
 Jedes Mitglied des **National-** und **Ständerates** darf die Einführung neuer Gesetze vorschlagen oder vom **Bundesrat** Auskunft verlangen.
@@ -713,6 +767,9 @@ Jedes Mitglied des **National-** und **Ständerates** darf die Einführung neuer
 Dazu gibt es verschiedene Instrumente.
 
 *Various instruments exist for this purpose.*
+
+![Parlamentarische Instrumente / Parliamentary instruments](../images/einbuergerungskurs-2026/page-20b.png)
+
 
 <!-- Page 20 -->
 
@@ -748,6 +805,9 @@ Viktor Rossi (Kanzler), Beat Jans (SP), Elisabeth Baume-Schneider (SP), Martin P
 
 *Viktor Rossi (Chancellor), Beat Jans (SP), Elisabeth Baume-Schneider (SP), Martin Pfister (Centre), Ignazio Cassis (FDP), Karin Keller-Sutter (FDP), Guy Parmelin (SVP), Albert Rösti (SVP)*
 
+
+![Der Bundesrat 2024 / The Federal Council 2024](../images/einbuergerungskurs-2026/page-21.png)
+
 <!-- Page 21 -->
 
 **Kollegialitätsprinzip:** der **Bundesrat** fällt die Entscheide durch **Abstimmung** im Mehrheitsverfahren. Die Entscheide werden von allen Mitgliedern gegen aussen vertreten, unabhängig ihrer politischen Zugehörigkeit und ihrer persönlichen Meinung.
@@ -765,6 +825,9 @@ Neue Gesetze vorschlagen, politische Lage beurteilen, Parlamentsbeschlüsse umse
 In der Schweiz gibt es keinen Regierungschef. Jedes Jahr wählt die vereinigte **Bundesversammlung** einen Bundesratspräsidenten/In. Die wichtigsten Aufgaben sind die Leitung der Sitzungen und Beziehungen mit dem Ausland.
 
 *In Switzerland, there is no head of government. Every year, the United **Federal Assembly** elects a President of the Confederation. The most important tasks are chairing meetings and relations with foreign countries.*
+
+
+![Die sieben Departemente des Bundesrats / The seven departments of the Federal Council](../images/einbuergerungskurs-2026/page-22.png)
 
 <!-- Page 22 -->
 
@@ -822,6 +885,9 @@ Political goals:*
 *- Low **taxes**, lean state, debt reduction*
 *- Restriction of immigration, tightening of asylum law*
 
+
+![Logo Schweizerische Volkspartei SVP / Logo Swiss People's Party SVP](../images/einbuergerungskurs-2026/page-23.png)
+
 <!-- Page 23 -->
 
 **Die Sozialdemokratische Partei (SP)**
@@ -838,6 +904,9 @@ Political goals:*
 *- Promotion of renewable energy and environmental protection*
 *- Open and solidarity-based Switzerland, in favour of EU membership*
 
+
+![Logo Sozialdemokratische Partei SP / Logo Social Democratic Party SP](../images/einbuergerungskurs-2026/page-24a.png)
+
 **Die Liberalen (FDP)**
 Gegründet 1894 // Werte: mitte-rechts, wirtschaftsliberal
 Politische Ziele:
@@ -852,6 +921,9 @@ Political goals:*
 *- Secure jobs, strengthening Swiss competitiveness*
 *- Reforms in social welfare and pension funds*
 
+
+![Logo FDP Die Liberalen / Logo FDP The Liberals](../images/einbuergerungskurs-2026/page-24b.png)
+
 **Die Mitte**
 Fusion aus CVP und BDP // Werte: Mitte
 Politische Ziele:
@@ -865,6 +937,9 @@ Political goals:*
 *- Support for families and the middle class*
 *- Strong business location through attractive **taxes**, first-class infrastructure and **education***
 *- Sustainable financing of social welfare without unrealistic expansion*
+
+
+![Logo Die Mitte / Logo The Centre (Die Mitte)](../images/einbuergerungskurs-2026/page-24c.png)
 
 Drei weitere Parteien sind zudem im Parlament vertreten:
 
@@ -884,6 +959,9 @@ Political goals:*
 *- Ecological transformation of the economy*
 *- Strengthening social welfare, active peace policy*
 
+
+![Logo Grüne Partei der Schweiz / Logo Green Party of Switzerland](../images/einbuergerungskurs-2026/page-24d.png)
+
 <!-- Page 24 -->
 
 **Grünliberale Partei (GLP)**
@@ -900,6 +978,9 @@ Political goals:*
 *- For close and good cooperation with the EU*
 *- For an equitable, modern and liberal society*
 
+
+![GLP Logo – Grünliberale Partei / GLP Logo – Green Liberal Party](../images/einbuergerungskurs-2026/page-25a.png)
+
 **Evangelische Volkspartei der Schweiz (EVP)**
 Gegründet: 1919 // Werthaltung: konservativ, Mitte
 Politische Ziele:
@@ -913,6 +994,9 @@ Political goals:*
 *- Objective and people-oriented politics based on the Gospel*
 *- Strengthening and financial relief for families*
 *- Preservation of creation, fair treatment of people and resources, solidarity with disadvantaged people*
+
+
+![EVP Logo – Evangelische Volkspartei der Schweiz / EVP Logo – Evangelical People's Party of Switzerland](../images/einbuergerungskurs-2026/page-25b.png)
 
 ### Verbände
 
@@ -993,6 +1077,9 @@ Die Schweiz hat mit der EU zwei wichtige Abkommen. Die Bilateralen I und die Bil
 Die Schweiz ist 2002 der UNO beigetreten, nachdem das Volk den Beitritt an der Urne gutgeheissen hatte. Die UNO hat einen Hauptsitz in Genf (und NY).
 
 *Switzerland joined the UN in 2002, after the people approved accession at the ballot box. The UN has a headquarters in Geneva (and NY).*
+
+
+![Zusammenarbeit Schweiz–EU / Cooperation Switzerland–EU](../images/einbuergerungskurs-2026/page-27.png)
 
 ## Rechte
 
@@ -1078,6 +1165,9 @@ Die Schweiz hat noch staatsbürgerliche Rechte. Diese sind nur gültige für Sch
 *- Freedom of establishment*
 *- Protection against expulsion, extradition and deportation*
 
+
+![Grundrechte – Waage der Gerechtigkeit / Fundamental rights – Scales of justice](../images/einbuergerungskurs-2026/page-28.png)
+
 <!-- Page 28 -->
 
 Die Politischen Rechte gelten nur für Schweizer:Innen, die bereits 18 Jahre alt und urteilsfähig sind. Die hohe Zahl an politischen Rechten ist weltweit einzigartig. Die meisten Bürger besitzen das Wahlrecht, während Schweizer Bürgerinnen und Bürger in der Schweiz folgende Rechte besitzen:
@@ -1158,6 +1248,9 @@ ABER die Schweiz hat zwei verschiedene Arten von Mehrheit: Das Volks- und das St
 
 *BUT Switzerland has two different types of majority: the popular majority and the cantonal majority.*
 
+
+![Heute Abstimmung – Stimmrecht in der Schweiz / Today: Vote – Right to vote in Switzerland](../images/einbuergerungskurs-2026/page-30.png)
+
 <!-- Page 30 -->
 
 **Das Volksmehr:** wenn mehr als 50% der Stimmwähler:Innen ja oder nein zu einer Vorlage sagen.
@@ -1171,6 +1264,9 @@ ABER die Schweiz hat zwei verschiedene Arten von Mehrheit: Das Volks- und das St
 **Doppeltes Mehr:** wenn die **Verfassung** geändert werden soll, müssen beide Mehr gelten. Das Volk und die **Kantone** müssen ja sagen.
 
 ***Double majority (Doppeltes Mehr):** when the **Constitution** is to be amended, both majorities must apply. The people and the **cantons** must say yes.*
+
+
+![Abstimmungsergebnis Konzernverantwortungsinitiative – Volksmehr Ja, Ständemehr Nein / Vote result Corporate Responsibility Initiative – Popular majority Yes, Cantonal majority No](../images/einbuergerungskurs-2026/page-31.png)
 
 ### Initiativrecht
 
@@ -1197,6 +1293,12 @@ Es braucht das Doppelte Mehr.
 *The double majority is required.*
 
 <!-- Page 31 -->
+
+
+![Abstimmungsplakate – Volksinitiative / Voting posters – Popular initiative](../images/einbuergerungskurs-2026/page-32a.png)
+
+
+![Abstimmungsplakat – Tabakwerbeverbot / Voting poster – Tobacco advertising ban](../images/einbuergerungskurs-2026/page-32b.png)
 
 <!-- Page 32 -->
 
@@ -1336,6 +1438,9 @@ In der Schweiz bestimmen **Kantone** und **Gemeinden** über ihre **Steuern** > 
 
 *In Switzerland, **cantons** and **municipalities** determine their own **taxes** > tax competition.*
 
+
+![Steuersätze nach Kanton / Tax rates by canton](../images/einbuergerungskurs-2026/page-35.png)
+
 <!-- Page 35 -->
 
 ---
@@ -1388,6 +1493,12 @@ Wenn man sich bei einem Rechtsstreit einen Beistand sichern will, kann man eine 
 
 *If one wants to secure assistance in a legal dispute, one can take out legal protection insurance.*
 
+
+![Schadenskizze – Mobiliarversicherung / Damage sketch – Household insurance](../images/einbuergerungskurs-2026/page-36a.png)
+
+
+![Schadenskizze – Versicherungsfall / Damage sketch – Insurance claim](../images/einbuergerungskurs-2026/page-36b.png)
+
 <!-- Page 36 -->
 
 ### Personenversicherungen
@@ -1418,6 +1529,9 @@ Finanziert werden diese Versicherungen einerseits durch die Löhne, indem der Ar
 
 *These insurance schemes are financed on the one hand through wages, with the employer and employee each paying a contribution, and on the other hand through **taxes**.*
 
+
+![Sozialversicherungen der Schweiz – Übersicht / Swiss social insurance – Overview](../images/einbuergerungskurs-2026/page-37.png)
+
 <!-- Page 37 -->
 
 ## Soziale Sicherheit
@@ -1431,6 +1545,9 @@ Finanziert werden diese Versicherungen einerseits durch die Löhne, indem der Ar
 Das Prinzip der drei Säulen wurde 1972 in die **Verfassung** verankert.
 
 *The three-pillar principle was enshrined in the **Constitution** in 1972.*
+
+![Das Drei-Säulen-System der Schweiz / The three-pillar system of Switzerland](../images/einbuergerungskurs-2026/page-38.png)
+
 
 **Die erste Säule** besteht aus der **AHV** (Alters- und Hinterlassenenversicherung) und **IV** (Invalidenversicherung). Diese soll den Existenzgrundbedarf decken. Die **AHV** zahlt Renten im Alter (Altersrente) oder an die Hinterlassenen (Witwen-, Witwer-, Waisenrenten). Die Höhe der Rente ist abhängig von Einkommen und Beitragsdauer der Versicherten. Sie ist für alle Personen in der Schweiz obligatorisch und das AHV-Alter ist mit 65 Jahren erreicht.
 
@@ -1471,6 +1588,9 @@ Die **IV** wird auch über die Löhne mit 0.7% finanziert. Hier gilt das Prinzip
 **Die dritte Säule** ist die Private Vorsorge. Die versicherte Person kann einen vom **Bund** definierten Betrag auf ein Konto einzahlen. Dieser Betrag kann von den **Steuern** abgezogen werden. Das Geld kann – wie bei der zweiten Säule – erst ab 60 abgezogen werden. Man kann das Geld früher nutzen, wenn man die Schweiz verlässt, Wohneigentum kauft oder ein Geschäft gründet.
 
 ***The third pillar** is private provision. The insured person can deposit an amount defined by the **Confederation** into an account. This amount can be deducted from **taxes**. The money can – as with the second pillar – only be withdrawn from age 60. One can use the money earlier if one leaves Switzerland, buys property or starts a business.*
+
+
+![AHV-Umlageverfahren und BV-Kapitaldeckungsverfahren / AHV pay-as-you-go system and BV funded system](../images/einbuergerungskurs-2026/page-39.png)
 
 <!-- Page 39 -->
 
@@ -1680,6 +1800,9 @@ Jeder zweite Franken wird im Ausland verdient. Die wichtigsten Handelspartner si
 
 *Every second franc is earned abroad. The most important trading partners are EU countries. Over 50% of exports go to the 27 EU countries and almost two-thirds of imports come from the EU.*
 
+![Aussenhandel der Schweiz / Switzerland's foreign trade](../images/einbuergerungskurs-2026/page-43.png)
+
+
 <!-- Page 44 -->
 
 Die Schweiz ist in 7 Wirtschaftsräume eingeteilt.
@@ -1693,6 +1816,9 @@ Das Espace Mittelland hat am meisten Einwohner, Zürich hat dafür die höchste 
 So sind auch die Löhne in Zürich am höchsten; aber im Tessin am tiefsten, wegen der vielen italienischen Arbeitskräfte, die die Löhne unter Druck setzen.
 
 *Wages are also highest in Zurich but lowest in Ticino, due to the many Italian workers who put downward pressure on wages.*
+
+![Die 7 Wirtschaftsräume der Schweiz / The 7 economic regions of Switzerland](../images/einbuergerungskurs-2026/page-44.png)
+
 
 ## Arbeit
 
@@ -1739,6 +1865,9 @@ Für die geleistete Arbeit gibt es Lohn. Vom Bruttolohn werden die Sozialleistun
 Ab 22050.- wird auch BV (berufliche Vorsorge) abgezogen.
 
 *From CHF 22,050 onwards, BV (occupational pension) is also deducted.*
+
+![Lohnabrechnung – Abzüge vom Bruttolohn / Salary statement – Deductions from gross salary](../images/einbuergerungskurs-2026/page-45.png)
+
 
 <!-- Page 46 -->
 
@@ -1824,6 +1953,9 @@ Für Weiterbildungen nach der ersten Ausbildung stehen viele Institutionen zur V
 
 *For continuing education after initial training, many institutions are available, such as the adult education centre (VHS) or the Migros schools, which offer a broad range of courses for all kinds of interests.*
 
+
+![Bildungssystem der Schweiz / Swiss education system](../images/einbuergerungskurs-2026/page-56.png)
+
 <!-- Page 48 -->
 
 <!-- Page 49 -->
@@ -1854,6 +1986,9 @@ Der höchste Berg im **Kanton** ist das Schnebelhorn mit 1292 m ü. M.
 
 *The highest mountain in the **canton** is the Schnebelhorn at 1,292 m above sea level.*
 
+
+![Karte des Kantons Zürich / Map of the Canton of Zurich](../images/einbuergerungskurs-2026/page-49.png)
+
 <!-- Page 50 -->
 
 ## Politik
@@ -1876,6 +2011,9 @@ Zürich hat 12 Bezirke und ist der **Kanton** mit den meisten Einwohner:Innen (1
 
 *Zurich has 12 districts and is the **canton** with the most inhabitants (1.5 million). The largest cities in the **canton** are Uster, Winterthur and Zurich. Zurich is the capital of the **Canton** of Zurich.*
 
+
+![Die 12 Bezirke des Kantons Zürich / The 12 districts of the Canton of Zurich](../images/einbuergerungskurs-2026/page-50.png)
+
 <!-- Page 51 -->
 
 ### Die **Exekutive** – der Regierungsrat
@@ -1885,6 +2023,9 @@ Zürich hat 12 Bezirke und ist der **Kanton** mit den meisten Einwohner:Innen (1
 Die kantonale Verwaltung hilft dem Regierungsrat, die Gesetze umzusetzen. Es gibt 7 Direktionen, pro Regierungsrat eine.
 
 *The cantonal administration helps the Government Council implement the laws. There are 7 directorates, one per council member.*
+
+![Exekutive – der Regierungsrat des Kantons Zürich / Executive – the Government Council of the Canton of Zurich](../images/einbuergerungskurs-2026/page-51.png)
+
 
 **Kathrin Arioli: Staatsschreiberin**
 Sie leitet die Staatskanzlei. Diese macht die Sitzungsvorbereitung, die Rechts- und Politikberatung, das Controlling und die Organisation von Veranstaltungen. Ausserdem ist die Staatskanzlei verantwortlich für die Kommunikation mit der Öffentlichkeit.
@@ -1952,6 +2093,9 @@ Aufgaben der Direktion der Justiz und des Innern sind die Strafverfolgung und de
 Party: SP
 Tasks of the Directorate of Justice and Internal Affairs include criminal prosecution and the penal system (prisons), separated by adults and juveniles. The directorate maintains relations with the **municipalities** and religious communities. Its tasks also include cultural promotion, victim support, as well as equality and the integration of newly settled residents.*
 
+
+![Regierungsräte des Kantons Zürich / Government Councillors of the Canton of Zurich](../images/einbuergerungskurs-2026/page-52.png)
+
 <!-- Page 53 -->
 
 ## Die **Gemeinden**
@@ -2001,6 +2145,9 @@ Im **Kanton** Zürich gibt es 150 **Gemeinden**. Diese entscheiden selbst, wie s
 Die **Gemeinden** finanzieren sich über **Steuern**. Auch hier gibt es den Finanzausgleich. Reiche **Gemeinden** finanzieren ärmere **Gemeinden**.
 
 *The **municipalities** finance themselves through **taxes**. Here, too, there is fiscal equalisation. Wealthy **municipalities** finance poorer **municipalities**.*
+
+
+![Gemeinden im Kanton Zürich – Übersicht / Municipalities in the Canton of Zurich – Overview](../images/einbuergerungskurs-2026/page-54.png)
 
 <!-- Page 54 -->
 
